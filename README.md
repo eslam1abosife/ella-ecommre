@@ -1,4 +1,6 @@
-# ella-project2
+# ella-ecommre
+# Demo
+#https://ella-ecommre.web.app/
 
 ## Project setup
 ```
