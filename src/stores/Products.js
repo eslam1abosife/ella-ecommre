@@ -33,7 +33,7 @@ export const productsModule = defineStore("productsModule", {
       },
       {
         title: "Women's Bags",
-        route: "women's-bags",
+        route: "womens-bags",
       },
       {
         title: "Groceries",
