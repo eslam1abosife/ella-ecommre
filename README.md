@@ -1,6 +1,6 @@
 # ella-ecommre
 # Demo
-# [https://ella-ecommre.web.app/](https://eslam1abosife.github.io/ella-ecommre/)
+# https://ella-ecommre.web.app
 
 ## Project setup
 ```
