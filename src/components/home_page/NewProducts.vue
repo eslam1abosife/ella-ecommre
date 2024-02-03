@@ -137,7 +137,7 @@
                     @click="
                       $router.push({
                         name: 'product_details',
-                        query: { productId: item.id },
+                        params: { productId: item.id },
                       })
                     "
                     >Choose Options</v-btn
